@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Great10.xyz" alt="Great10.xyz Banner">
+  <img src="https://great10.xyz/wp-content/uploads/2025/02/favicon-32x32-1.png" alt="Great10.xyz Banner">
 </p>
 
 <!-- Badges -->
