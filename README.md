@@ -2,7 +2,7 @@
 
 Welcome to **[Great10](https://great10.xyz)** – where anime comes to life! Our platform is dedicated to delivering an unparalleled streaming experience with high-quality video, an extensive library of the latest episodes, and classic series—all at your fingertips.
 
-![Great10 Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Great10)  
+![Great10 Banner](https://cdn.noitatnemucod.net/thumbnail/1366x768/100/171a758ec0cd08629b54282d586dad87.jpg)  
 *Experience the magic of anime with every click.*
 
 ---
